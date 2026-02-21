@@ -1,0 +1,7 @@
+# Runtime log data (contains MAC addresses, PIDs, timestamps)
+*.jsonl
+health-*.jsonl
+events.jsonl
+
+# Debug scripts
+debug-*.ps1
